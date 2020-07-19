@@ -1,8 +1,8 @@
 {
   "name": "fishing-website",
   "version": "1.0.0",
-  "description": "a website for anglers",
-  "main": "index.js",
+  "description": "a website intended to hook anglers all over the world",
+  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
@@ -12,7 +12,6 @@
   },
   "keywords": [
     "fishing",
-    "bite",
     "weather"
   ],
   "author": "Jacob Wyrick",
@@ -20,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/jow631s/Fishing-Website/issues"
   },
-  "homepage": "https://github.com/jow631s/Fishing-Website#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/jow631s/Fishing-Website#readme"
 }
