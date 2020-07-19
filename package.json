@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jow631s/Fishing-Website/issues"
   },
-  "homepage": "https://github.com/jow631s/Fishing-Website#readme"
+  "homepage": "https://github.com/jow631s/Fishing-Website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
